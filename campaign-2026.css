@@ -40,4 +40,5 @@ font-family: "proxima-nova",Arial,Helvetica,sans-serif;
 .feature-card-body {
 padding: 20px 30px;
 background: #fff;
-he
+height: 100%;
+}
