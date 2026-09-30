@@ -36,6 +36,10 @@ text-transform: uppercase;
   letter-spacing: 3.31px;
   font-weight: 600;
 font-family: "proxima-nova",Arial,Helvetica,sans-serif;
+  min-height: 4em;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 .feature-card-body {
 padding: 20px 30px;
