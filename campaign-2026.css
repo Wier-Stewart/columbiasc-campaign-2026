@@ -3,6 +3,7 @@ aspect-ratio: 16/9;
 }
 .campaign-landing-page .campaign-page-mma .copy {
 height: 100%;
+  max-width: 1440px;
 }
 .campaign-landing-page .campaign-page-mma .wrapper {
 max-height: 100%;
